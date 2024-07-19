@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliakbar Nazemi</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
-- 👨‍💻 All of my projects are available at [aliakbarnazemi.ir](aliakbarnazemi.ir)
+- 👨‍💻 mY CV are available at [aliakbarnazemi.ir](aliakbarnazemi.ir)
 
 - 💬 Ask me about **Html , css , js , Bootstrap , Tailwind**
 
